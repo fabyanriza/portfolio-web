@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import fabyan1 from "../asssets/fabyan-1.png";
 import fabyan2 from "../asssets/fabyan-2.png";
 import fabyan3 from "../asssets/fabyan-3.png";
+import cv from "../asssets/cv.pdf";
 
 const photos = [fabyan1, fabyan2, fabyan3];
 
@@ -48,7 +49,7 @@ export default function Hero() {
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </button>
               <a
-                href="/cv.pdf"
+                href={cv}
                 download
                 className="px-8 py-4 bg-white dark:bg-slate-800 text-slate-700 dark:text-white rounded-lg font-medium hover:bg-slate-50 dark:hover:bg-slate-700 transition-all duration-300 flex items-center gap-2 shadow-lg hover:shadow-xl transform hover:-translate-y-1 border border-slate-200 dark:border-slate-600"
               >
