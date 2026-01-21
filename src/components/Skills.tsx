@@ -27,7 +27,6 @@ export default function Skills() {
       title: "Methods & Domains",
       skills: [
         "Time Series Forecasting",
-        "XAI (SHAP, IG, PI)",
         "Optimization",
         "Panel Data Analysis",
         "Clustering & Segmentation",
@@ -38,7 +37,7 @@ export default function Skills() {
     {
       icon: <Wrench className="w-6 h-6" />,
       title: "Other",
-      skills: ["Git", "Docker", "AWS ECS"],
+      skills: ["Git", "Docker", "English"],
       color: "slate",
     },
   ];

@@ -180,7 +180,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://linkedin.com/in/fabyan-riza"
+                href="https://www.linkedin.com/in/fabyan-riza-kiram/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-4 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors border border-slate-200 dark:border-slate-700"
@@ -193,7 +193,7 @@ export default function Contact() {
                     LinkedIn
                   </p>
                   <p className="text-slate-600 dark:text-slate-400">
-                    linkedin.com/in/fabyan-riza
+                    linkedin.com/in/fabyan-riza-kiram
                   </p>
                 </div>
               </a>
