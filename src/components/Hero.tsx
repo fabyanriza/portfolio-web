@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import fabyan1 from "../asssets/fabyan-1.png";
 import fabyan2 from "../asssets/fabyan-2.png";
 import fabyan3 from "../asssets/fabyan-3.png";
-import cv from "../asssets/cv.pdf";
+import cv from "../asssets/cv-fabyan.pdf";
 
 const photos = [fabyan1, fabyan2, fabyan3];
 
